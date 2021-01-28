@@ -22,6 +22,9 @@ public class Program {
 			while(!chessMatch.getCheckMate()) {
 				try {
 					UI.clearScreen();
+					System.out.println(UI.ANSI_WHITE);
+					System.out.println(" ***** JAVA ***** ");
+					System.out.println(UI.ANSI_RESET);
 					UI.printMatch(chessMatch, captured);;
 					System.out.println();
 					
