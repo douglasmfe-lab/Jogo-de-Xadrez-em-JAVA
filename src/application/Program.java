@@ -25,7 +25,7 @@ public class Program {
 					System.out.println(UI.ANSI_WHITE);
 					System.out.println(" ***** JAVA ***** ");
 					System.out.println(UI.ANSI_RESET);
-					UI.printMatch(chessMatch, captured);;
+					UI.printMatch(chessMatch, captured);
 					System.out.println();
 					
 					System.out.print("Source: ");
