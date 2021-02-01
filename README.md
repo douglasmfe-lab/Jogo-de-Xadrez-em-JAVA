@@ -9,5 +9,7 @@ Olá, Bem vindo ao projetinho de Jogo de Xadrez, Chess System do curso de Java a
 - Após verificar se esta tudo ok, va na pasta bin, abra um bash (Roda em CMD, mas tenta usar o bash por conta das cores.
 - Digite: java application/Program e pronto é só jogar.
 
+Aceito contribuições para o front, que é nosso próximo passo...
+
 
 
