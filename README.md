@@ -1,4 +1,4 @@
-# Jogo de Xadez em Java:
+# Jogo de Xadrez em Java:
 
 Olá, Bem vindo ao projetinho de Jogo de Xadrez, Chess System do curso de Java avançado de nosso mestre Nelio Alves:
 
