@@ -1,6 +1,6 @@
 # Jogo de Xadez em Java:
 
-Olá, Bem vindo ao projetinho de Jogo de Xadez, Chess System do nosso mestre Nelio Alves:
+Olá, Bem vindo ao projetinho de Jogo de Xadrez, Chess System do curso de Java avançado de nosso mestre Nelio Alves:
 
 - Clique em clonar o projeto
 - Abra uma pasta no seu WorkSpace do Eclipe, nomeie como Chess System ou Jogo de xadrez.
